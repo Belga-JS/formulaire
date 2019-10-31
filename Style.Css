@@ -1,0 +1,68 @@
+.formulaire{
+    text-align: center;
+    color:white;
+}
+.Validation{
+    background-color: rgb(72, 108, 226);
+}
+.First-name{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.Last-name{
+    width:100%;
+    font-size: 30px;
+    margin-top:5%;
+}
+.address{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.Email-address{
+    width: 100%;
+    font-size:30px;
+    margin-top: 5%;
+}
+.password{
+    width:100%;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.comment{
+    width:100%;
+    font-size: 30px;
+    margin-top: 3%;
+    height: 60px;
+    margin-bottom: 3%;
+}
+input{
+border-radius: solid 4px white;
+width: 35%;
+height:25px;
+}
+textarea{
+    width:35%;
+    height:60px;
+}
+button {
+    width: 36%;
+    height: 30px;
+    margin-top: 1%;
+    background-color: blue;
+    border-bottom: white 2px;
+    color: white;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+#msg {
+    display:none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+
